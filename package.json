@@ -1,0 +1,16 @@
+{
+  "name": "sealfur.com",
+  "version": "1.0.0",
+  "description": "A website created by ",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve --quiet"
+    //"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joshua Kinal",
+  //"license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
